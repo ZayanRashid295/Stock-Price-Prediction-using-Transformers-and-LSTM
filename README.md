@@ -1,5 +1,4 @@
-# IAI-Project
-
+# Stock Price Prediction using Transformers and LSTM
 Welcome to the **IAI-Project** repository! This project focuses on analyzing historical stock market data and developing advanced machine learning models, including **Stock Transformer** and **LSTM**, to predict future stock trends.
 
 ---
